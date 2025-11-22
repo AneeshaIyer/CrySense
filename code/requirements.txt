@@ -1,0 +1,12 @@
+torch
+transformers
+gradio
+librosa
+soundfile
+numpy
+fpdf
+fastapi
+uvicorn
+pandas
+scikit-learn
+reportlab
