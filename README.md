@@ -348,7 +348,7 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 For questions, suggestions, or collaboration:
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/yourusername/crysense-ai/issues)
+- **GitHub Issues:** [Report bugs or request features](https://github.com/AneeshaIyer/CrySense/issues)
 - **Email:** aneeshamiyer@gmail.com -- batulhsuratwala@gmail.com
 
 ---
